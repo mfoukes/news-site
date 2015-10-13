@@ -1,10 +1,11 @@
 h1 {
 	font-family: 'Lato', sans-serif;
+	text-align: center;
 }
 
 h2 {
 	font-family: 'Roboto Condensed', sans-serif;
-	font-style: bold;
+	
 	text-transform: uppercase;
 }
 h3 {
