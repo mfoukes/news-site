@@ -1,10 +1,14 @@
 
 body {
+<<<<<<< HEAD
 	text-align: center;
+=======
+	font-family: 'Lato', sans-serif;
+>>>>>>> master
 }
 h1 {
 	font-family: 'Lato', sans-serif;
-	text-align: center;
+	
 }
 
 h2 {
@@ -22,5 +26,5 @@ span {
 	text-align: right;
 }
 .kicker {
-
+	font-family: 'Lato', sans-serif;
 }
