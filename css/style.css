@@ -5,7 +5,10 @@ body {
 }
 h1 {
 	font-family: 'Lato', sans-serif;
-	
+	text-align: center;
+	text-transform: uppercase;
+	color: white;
+	font-size: 30px;
 }
 
 h2 {
@@ -24,4 +27,23 @@ span {
 }
 .kicker {
 	font-family: 'Lato', sans-serif;
+
 }
+.nav {
+	text-align: center;
+}
+.most-viewed-stories {
+	text-align: right;
+}
+.footer {
+	text-align: center;
+}
+.header {
+	background-color: #333333;
+	padding: 50px 50px;
+}
+.adbox {
+	background-color:cyan;
+	padding-bottom: 50px;
+}
+
