@@ -27,6 +27,11 @@ span {
 }
 .kicker {
 	font-family: 'Lato', sans-serif;
+<<<<<<< HEAD
+=======
+	text-transform: uppercase;
+	font-weight: bold;
+>>>>>>> master
 
 }
 .nav {
@@ -46,4 +51,11 @@ span {
 	background-color:cyan;
 	padding-bottom: 50px;
 }
+<<<<<<< HEAD
+=======
+.byline {
+	font-weight: bold;
+	color: #BABABA;
+}
+>>>>>>> master
 
