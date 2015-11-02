@@ -1,0 +1,103 @@
+.header {
+	background-color: #333333;
+	font-size: 12px;
+	padding-top: 30px;
+	padding-bottom: 30px;
+	text-align: center;
+	word-spacing: 10px;
+}
+.nav {
+	color: #5798C4;
+	font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif;
+	font-weight: bold;
+}
+h1 {
+	color: white;
+	text-transform: uppercase;
+	margin-bottom: 30px;
+	font-size: 30px;
+	font-family: "Arial Black", Gadget, sans-serif;
+	word-spacing: 10px;
+}
+.kicker {
+	font-family:'Lato', sans-serif;
+	font-weight: bold;
+	margin-top: 12px;
+	margin-bottom: 12px;
+	text-transform: uppercase;
+	font-size: 12px;
+	color: black;
+}
+h2 {
+	font-weight: bold;
+	margin-top: 15px;
+	margin-bottom: 10px;
+	text-transform: uppercase;
+	font-size: 22px;
+	line-height: 24px;
+	font-family: 'Roboto', sans-serif;
+}
+.adbox {
+	height: 88px;
+	background-color: #06FFFE;
+	margin-top: 15px;
+	margin-bottom: 15px;
+}
+.byline {
+	color: gray;
+	font-size: 13px;
+	line-height: 15px;
+	margin-top: 5px;
+	margin-bottom: 7px;
+}
+.summary {
+	line-height: 22px;
+	margin-bottom: 20px;
+	font-size: 18px;
+}
+span {
+	text-transform: uppercase;
+}
+img {
+	width: 100%;
+	margin-bottom: 5px;
+}
+.caption {
+	color: gray;
+	font-size: 15px;
+	line-height: 17px;
+	margin-bottom: 10px;
+	text-align: left;
+}
+h3 {
+	width: 350px;
+	font-size: 30px;
+	line-height: 35px;
+	font-family: 'Lora', serif;
+	margin-left: 50px;
+}
+.center-story {
+	text-align: center;
+}
+.footer {
+	background-color: #333333;
+	margin-top: 20px;
+	height: 40px;
+	text-align: center;
+	padding-top: 50px;
+	color: gray;
+	font-family: 'Lato', sans-serif;
+}
+.main-sidebar {
+	text-align: left;
+}
+.most-viewed-stories {
+	font-size: 13px;
+	text-transform: normal;
+	font-family:'Lato', sans-serif;
+	line-height: 20px;
+}
+h4 {
+	word-spacing: 1px;
+	line-height: 20px;
+}
